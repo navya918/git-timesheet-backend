@@ -14,7 +14,6 @@ import java.util.List;
 
 @RestController
 @CrossOrigin(origins = "https://web-app-0101-babdbnf3bnchejd8.canadacentral-01.azurewebsites.net")//http//localhost:3000
-#@CrossOrigin(origins = "/http//localhost:3000")//http//localhost:3000
 @RequestMapping("/api/timesheets")
 public class TimesheetController {
 
